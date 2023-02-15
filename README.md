@@ -1,7 +1,7 @@
 # aviator
 
 
-[![Build Status](https://travis-ci.org/killme2008/aviatorscript.svg?branch=master)](https://travis-ci.org/killme2008/aviatorscript)
+
 [![Maven Central](https://img.shields.io/maven-central/v/com.googlecode.aviator/aviator.svg?label=maven%20central)](https://search.maven.org/search?q=g:com.googlecode.aviator%20AND%20aviator)
 
 [📖 English Documentation](README-EN.md) | 📖 中文文档
@@ -47,10 +47,11 @@
 
 # 快速开始
 
-1. 下载 [aviator](https://raw.githubusercontent.com/killme2008/aviator/master/bin/aviator) shell 到某个目录（最好是在系统的 `PATH` 环境变量内），比如 `~/bin/aviator`:
+1. 下载 [aviator](https://raw.githubusercontent.com/
+/aviator/master/bin/aviator) shell 到某个目录（最好是在系统的 `PATH` 环境变量内），比如 `~/bin/aviator`:
 
 ```sh
-$ wget https://raw.githubusercontent.com/killme2008/aviator/master/bin/aviator
+$ wget https://raw.githubusercontent.com/mavenAoteman/aviator/master/bin/aviator
 $ chmod u+x aviator
 ```
 
@@ -82,7 +83,7 @@ p("The year is: "+ getYear(date));
 p("The month is: #{getMonth(date)}");
 ```
 
-一个更复杂的计算器例子（求值算术表达式字符串）参见[calculator.av](https://github.com/killme2008/aviatorscript/blob/master/examples/calculator.av)。
+
 
 4. 执行脚本：
 
@@ -99,7 +100,7 @@ The month is: 3
 
 # Links
 
-* Releases: <https://github.com/killme2008/aviator/releases>
+
 * Documents: <https://www.yuque.com/boyan-avfmj/aviatorscript>
 * Changelog: <https://www.yuque.com/boyan-avfmj/aviatorscript/bggwx2>
 * Javadoc: <http://fnil.net/aviator/apidocs/>
