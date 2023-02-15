@@ -31,11 +31,7 @@
 
 **推荐使用版本 5.2.6 及以上**
 
-# News
 
-* [5.3.3](https://github.com/killme2008/aviatorscript/releases/tag/aviator-5.3.3)，修复潜在内存泄露、变量捕获错误等 Bug。
-* [5.3.2](https://github.com/killme2008/aviatorscript/releases/tag/aviator-5.3.2)，一些 Bug 修复，推荐升级。
-* [5.3.1](https://github.com/killme2008/aviatorscript/releases/tag/aviator-5.3.1)，逻辑运算符支持别名和 bug 修复等。
 
 # Dependency
 
